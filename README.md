@@ -1,6 +1,6 @@
 # Notificator-Service
 ## General info
-This project is simple Notification Service with Nodemailer
+This project is simple Notificator Service with Nodemailer
 ## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
