@@ -1,6 +1,6 @@
 # Notification-Service
 ## General info
-This project is simple CRUD data
+This project is simple Notification Service with Nodemailer
 ## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
