@@ -1,4 +1,4 @@
-# Notification-Service
+# Notificator-Service
 ## General info
 This project is simple Notification Service with Nodemailer
 ## Built With
