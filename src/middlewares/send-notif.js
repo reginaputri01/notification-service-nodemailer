@@ -14,7 +14,7 @@ module.exports = {
         from: process.env.YOUR_EMAIL,
         to: req.body.email,
         subject: 'Notification',
-        html: '<h1>Hai, Selamat Datang</h1> <p>Selamat Bersenang-senang!</p>'
+        html: '<h1>Hai, Teman Indonesia</h1> <p>Ayo kita tetap patuhi protokol kesehatan, hanya dengan itu kita sudah bisa membantu untuk mengurangi penyebaran Covid-19. Jangan lupa 3M yaa! </p>'
     }
 
     transporter.sendMail(mailOptions, (err, info) => {
